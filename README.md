@@ -1,5 +1,5 @@
 # Roleplay-for-Collaborative-Dialogues
-Git repo for source code to run experiments published at the ORIGen Workshop at COLM 2025. Figure below shows a high-level overview of our experimental design. 
+Git repo for source code to run experiments for our paper, "Let's Roleplay: Examining LLM Alignment in Collaborative Dialogues" — published at the ORIGen Workshop at COLM 2025. Figure below shows a high-level overview of our experimental design. 
  
 <p align="center">
   <a href="plots/overview_roleplay.png">
