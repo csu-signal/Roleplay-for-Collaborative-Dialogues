@@ -2,10 +2,11 @@
 Git repo for source code to run experiments published at the ORIGen Workshop at COLM 2025. Figure below shows a high-level overview of our experimental design. 
  
 <p align="center">
-  <a href="plots/overview_simplified-1.png">
-    <img src="plots/overview_simplified-1.png" alt="FRICTION++ Overview" width="800">
+  <a href="plots/overview_roleplay.png">
+    <img src="plots/overview_roleplay.png" alt="FRICTION++ Overview" width="800">
   </a>
 </p>
+
 
 
 ## Main Files
